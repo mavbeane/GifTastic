@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var topics = ['magenta', 'yellow', 'cyan', 'black'];
+    var topics = ['pink', 'yellow', 'grey'];
     var button;
 
     buttonGiphies();
